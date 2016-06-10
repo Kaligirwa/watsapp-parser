@@ -7,6 +7,6 @@ To run:
 
 
 TO-DO LIST: 
-[] scrub/curate data 
-[] Something else 
-[] blah blah
+[ ] scrub/curate data 
+[ ] Something else 
+[ ] blah blah
